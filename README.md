@@ -19,9 +19,10 @@ This folder contains only the materials that are currently intended for public r
 
 ## Notes
 
-- Code, full datasets, model files, and complete experimental outputs are not included in this preliminary release.
+- Code, full datasets, setting files, and complete experimental outputs are not included in this preliminary release.
 - The sample files are intended to show the structure and output format for public reference.
 - The agent samples are aligned to the same 20 `id` values across files.
 - Step 1--3 agent samples are provided as separate `A/B/C/judge` files rather than merged outputs.
-- The dataset samples were re-sampled from `train.csv` and include richer metadata such as `year`, `report`, `industry`, `token_count`, and `label_source`.
+- The dataset samples include 100 examples for each public sample file and provide metadata such as `year`, `report`, `industry`, `token_count`, and `label_source`.
+- The public dataset name is presented as `ESG-En`.
 
