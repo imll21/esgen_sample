@@ -7,14 +7,15 @@ This folder contains only the materials that are currently intended for public r
 
 ## Folder Structure
 
-- `prompt_templates/`
-  - ESG relevance, E/S/G/I labeling, debate, and judge prompt templates
-- `labeling_guidelines/`
-  - Label definitions and step-by-step decision criteria
 - `agent_response_samples/`
   - Sample agent response CSV files
 - `dataset_samples/`
   - Public sample CSV files for `ESG-En`
+- `labeling_guidelines/`
+  - Label definitions and step-by-step decision criteria
+- `prompt_templates/`
+  - ESG relevance, E/S/G/I labeling, debate, and judge prompt templates
+
 
 ## Notes
 
