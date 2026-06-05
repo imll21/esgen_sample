@@ -1,5 +1,5 @@
 
-# ESG-En Public Release
+# ESG-En Sample Artifact Release
 
 This repository provides sample artifacts associated with the paper **“TRAE: Trustworthy Automated ESG Annotation via Multi-Agent Consensus and Confidence Assessment.”** It is intended to support transparency and public reference by sharing representative prompts, annotation guidelines, agent response samples, and dataset samples from the ESG-En construction process.
 
